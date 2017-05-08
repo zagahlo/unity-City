@@ -1,0 +1,17 @@
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\obj\Debug\UnityVS.UnityCity_2.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\obj\Debug\Assembly-CSharp.dll
+C:\Users\JC\Documents\Unity Projects\UnityCity_2\UnityCity_2\obj\Debug\Assembly-CSharp.pdb
